@@ -1,0 +1,4 @@
+- A Developer Activity Tracker with API, Auth, and Analytics
+- A backend system that lets developers log daily activities (coding, reading, debugging)
+- track time spent, and analyze productivity trends.
+- Think of it as a personal backend for journaling and performance tracking.
